@@ -2,8 +2,8 @@
 #include <U8g2lib.h>
 
 // Define custom I2C pins
-#define I2C_SCL 22
-#define I2C_SDA 21
+#define I2C_SCL 12
+#define I2C_SDA 13
 
 #define BUTTON_PIN_LEFT 23
 #define BUTTON_PIN_RIGHT 19
